@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box
+};
+
+#top {
+  
+}
+
+.timer {
+  padding: 2px 10px;
+  border-radius: 4px;
+  background-color:goldenrod;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+.row {
+  padding: 10px 0 10px 0;
+}
+
+#start-card {
+  display: flex;
+}
+
+#quiz-card {
+  display: none;
+}
+
+#final-card {
+  display: none;
+}
+
+#high-scores-card {
+  display: none;
+}
+
